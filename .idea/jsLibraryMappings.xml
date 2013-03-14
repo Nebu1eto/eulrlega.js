@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$/examples" libraries="{Node.js v0.8.21 Core Modules}" />
+    <file url="file://$PROJECT_DIR$/lib" libraries="{Node.js v0.8.21 Core Modules}" />
+  </component>
+</project>
+
