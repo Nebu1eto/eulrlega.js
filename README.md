@@ -1,9 +1,12 @@
 # eulrlega.js
 
 Simple Korean Stemming Module for find appropriate Particle.
+
 Javascript에서 문자열 뒤에 붙을 말이 을(이/은)인지 를(가/는)인지 알려줍니다.
 
-Javascript : [Azur3Sky](http://github.com/Azur3Sky)\n
+
+Javascript : [Azur3Sky](http://github.com/Azur3Sky)
+
 C++ / Java Original : [synchrok](http://github.com/synchrok)
 
 ## Installation
