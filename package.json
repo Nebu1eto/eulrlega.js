@@ -1,0 +1,10 @@
+{
+    "name": "eulrlega",
+    "description": "Simple Korean Stemming Module for find appropriate Particle.",
+    "version": "0.1.0",
+    "author": { "name": "Azur3Sky", "email": "admin@steelheartdev.me", "url": "http://steelheartdev.me/" },
+    "dependencies": {},
+    "devDependencies": {},
+    "licenses": [ { "type": "WTFPL", "url": "http://www.wtfpl.net/txt/copying/" } ],
+    "keywords": ["Korean", "을를이가", "Stemming", "Particle"]
+}
