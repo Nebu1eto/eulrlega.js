@@ -13,7 +13,7 @@ C++ / Java Original : [synchrok](http://github.com/synchrok)
 
     $ npm install eulrlega
     
-## Usage
+## Usage & Examples
 Not yet. :P
     
 ## License
