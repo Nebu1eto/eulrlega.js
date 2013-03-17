@@ -10,8 +10,24 @@ Original(Java, C++) by [synchrok](http://github.com/synchrok), Javascript by [Az
     $ npm install eulrlega
     
 ## Usage & Examples
-Not yet. :P
-    
+
+First, Declare this module to use this module. (if this is not uploaded on npm repository, use eulrlega.js's path.)
+    var eulrlega = require('eulrlega');
+
+Second, Just Use! :D
+
+eulrlega(word) : return true if it use '을', '이', '는'.
+    eulrlega.eulrlega("밥");
+
+getEulrl(word), getEga(word), getEunnn(word) : return appropriate Particle
+    eulrlega.getEulrl("떡");
+
+getSentence(sentence) : return full sentence.
+'#a' find which is appropriate from '을', '를'.
+'#b' find which is appropriate from '이', '가'.
+'#c' find which is appropriate from '은', '는'.
+    eulrlega.getSentence("나#c 치킨#b 먹고싶어서 치킨#a 먹었는데 맛#b 좋았다.");
+
 ## License
 
 WTFPL(Do What the Fuck You Want to Public License)
